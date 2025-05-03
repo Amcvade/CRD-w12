@@ -1,0 +1,7 @@
+{
+    "tasks": [
+      { "id": 1, "name": "Finish project", "completed": false },
+      { "id": 2, "name": "Review code", "completed": false }
+    ]
+  }
+  
